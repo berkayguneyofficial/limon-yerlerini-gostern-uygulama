@@ -1,2 +1,1 @@
-# limon-yerlerini-gostern-uygulama
-Fotoğraftaki limonların yerlerini gösteren bir Python kodu. 
+Yüklediğiniz fotoğraftaki limonların yerlerini gösteren bir uygulama. CV2, Tkinter, numpy gibi kütüphaneleri kullanarak yazıldı. Tarımda, çiftliklerde, manavlarda farklı amaçlar için kullanılabilir. 
